@@ -1,0 +1,14 @@
+{
+    "test_size": "0.33",
+    "n_iterations": "20",
+    "population_size": "200",
+    "mutation_rate": "0.32",
+    "crossover_rate": "41",
+    "n_individuals_by_mutation": "40",
+    "n_individuals_by_crossover": "40",
+    "sample_with_replacement": "True",
+    "random_state": "0",
+    "n_samples": "10000",
+    "n_outputs": "2",
+    "make_grid_search": "True"
+}
